@@ -1,0 +1,1 @@
+INSERT INTO contacts (name) VALUES ('Ivan'),('Alex'),('Evgen'),('Olga'),('Mary'),('Sergey'),('Nikol'),('Petr'),('Yana'),('Helga');
